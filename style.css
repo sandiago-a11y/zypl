@@ -1,0 +1,85 @@
+body{
+  background-color: #ffffd2;
+  text-align: center;
+  font-style: 'arial';
+  /* background-image: url("images/background-img1.png"); */
+
+}
+
+.header{
+  padding: 50px;
+  margin:5% 5% 0;
+  background-color: #8c0000 ;
+    width:90%;
+}
+.body{
+  background-image: url("images/background-img.png");
+  opacity: 1.2;
+  margin:0 5% 0;
+
+  height:100%;
+  width:90%;
+  padding: 50px 0;
+}
+.contact-div{
+  padding: 50px;
+  background-color: #8c0000;
+  margin:0 5% 5%;
+  text-align: left;
+}
+/* Fonts */
+.page-header{
+  font-size: 350%;
+  font-weight: bold;
+  color:purple;
+}
+.headertext{
+  font-size: 350%;
+  font-weight: bold;
+  margin:0;
+  color:#fff;
+}
+.sub-headertext{
+  color:#fff;
+font-size:200%;
+margin:0;
+font-family: 'arial';
+}
+.payee-name{
+  color:#433520;
+  font-size: 300%;
+  text-align: left;
+  font-weight: bold;
+  margin: 5px 50px 5px;
+  font-family: 'arial';
+}
+.amount{
+  font-size: 300%;
+  text-align: left;
+  font-weight: bold;
+  margin: 30px 50px 5px;
+  font-family: 'arial';
+  color:red;
+}
+.input{
+  font-size: 2rem;
+  color: #433520;
+  font-weight: bold;
+  width: 150px;
+  height: 30px;
+  margin: 10px 0;
+}
+label{
+float:left;
+margin:0 20px 0 0;
+}
+.address{
+  color:#fff;
+  font-size:200%;
+  margin:0% 5%;
+
+}
+#page-title{
+  padding:20px;
+  margin:0px;
+}
